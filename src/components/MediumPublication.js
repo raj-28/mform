@@ -23,7 +23,7 @@ const MediumPublication = () => {
       <div className="publication-content">
         <h2>Join Our Growing Tech Community</h2>
         <p>
-          Welcome to our thriving tech publication! We're building a space where:
+          Welcome to our thriving how tech also publication! We're building a space where:
         </p>
         <ul>
           <li>✨ Passionate developers share their journey</li>
